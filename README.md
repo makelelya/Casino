@@ -1,4 +1,4 @@
-# firstmillion
+# casino
 # начало проекта, тема проекта: казино
 # первый этап: создание визуала 
 ![image](https://user-images.githubusercontent.com/96170301/160747640-50a64d95-9e06-4e39-ba91-a2cb7f054bce.png)
